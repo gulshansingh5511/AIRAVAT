@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src='WEB PANEL/img/logo.png' style="height:100px;width:100px;" >
+<img src='Web Pannel/img/logo.png' style="height:100px;width:100px;" >
 </p>
 <h1 align=center>AIRAVAT</h1>
 
@@ -99,8 +99,7 @@
  1. Now compile the code with appt2.
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
   ### Tutorial Videos
-  1. To be updated...
-
+  [![Click Here](https://youtu.be/PswxXTgHSkc?si=oC-Sg7g3YRiJ2ZIY)]
 ### ❤️Supporters❤️
 [![Stargazers repo roster for @th30neand0nly/AIRAVAT](http://reporoster.com/stars/dark/Th30neAnd0nly/AIRAVAT)](https://github.com/Th30neAnd0nly/AIRAVAT/stargazers)
 
